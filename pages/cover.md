@@ -1,7 +1,7 @@
 # 总体国家安全观
 
 <span px-2 py-1 rounded text-gray-300>
-    Overall national security outlook of China.
+    Overall national security outlook of China. | <a href="https://onso.gxmzuai.top" target="_blank">SPA</a>
 </span>
 
 <div abs-br mb-20 mr-15 flex gap-2 text-sm text-left>

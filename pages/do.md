@@ -19,6 +19,8 @@
 
 ![](https://vip2.loli.io/2023/11/04/XYbFh3sRBPZQum4.webp)
 
+<center text-sm>Ten persistence</center>
+
 </div>
 
 </div>
