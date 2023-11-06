@@ -31,6 +31,12 @@ hideInToc: true
 
 ---
 layout: default
+src: ./pages/people-security-extra.md
+hideInToc: true
+---
+
+---
+layout: default
 src: ./pages/political-security.md
 hideInToc: true
 ---
