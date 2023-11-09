@@ -21,7 +21,7 @@
 
 ![](https://vip2.loli.io/2023/11/09/rdwD4oWIpsB5XgF.webp)
 
-<center>AI Regulation</center>
+<center text-sm>AI Regulation</center>
 
 </div>
 

@@ -15,6 +15,10 @@
 
 <div flex flex-col justify-center items-center mx-20>
 
+![](https://vip2.loli.io/2023/11/09/KGb163JMznl82Nw.webp)
+
+<center text-sm>Sam Altman in OpenAI DEV day</center>
+
 </div>
 
 </div>
