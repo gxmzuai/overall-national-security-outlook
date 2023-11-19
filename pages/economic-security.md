@@ -6,7 +6,7 @@
 
 经济安全：确保国家经济的持续稳定发展，防止外部经济压力和冲击。
 
-在面对美中贸易战的压力时，中国调整其经济战略，加强与其他国家的贸易关系。推动“一带一路”倡议，与多国签订贸易协议。
+在面对中美贸易战的压力时，中国调整其经济战略，加强与其他国家的贸易关系。推动“一带一路”倡议，与多国签订贸易协议。
 
 经济安全，研究生群体（不考虑读博）可以怎么做？
 
@@ -20,7 +20,7 @@
 
 ![](https://vip2.loli.io/2023/11/04/sQ3OTkCyhoGvYIR.webp)
 
-<center text-sm>《China’s latest GDP figures frustrate US containment》（漫画作者：Chen Xia）</center>
+<center text-sm>《中国GDP》</center>
 
 </div>
 

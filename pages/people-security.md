@@ -20,13 +20,15 @@ ALPS(Advanced Liquid Processing System)系统并不完美，日本政府、东�
 
 ![](https://vip2.loli.io/2023/11/04/L1ZkPzlXJHdxSf3.webp)
 
-<center text-sm>《鲨斯拉》（漫画作者：李博婷）</center>
+<center text-sm>《鲨斯拉》</center>
 
 </div>
 
 </div>
 
 <!-- 
+
+首先是人民安全领域。
 
 人民安全意味着确保人民的基本权利、生命和财产不受侵犯。
 

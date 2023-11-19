@@ -62,13 +62,25 @@ hideInToc: true
 
 ---
 layout: default
-src: ./pages/aigc-security-extra.md
+src: ./pages/aigc-security-extra-1.md
+hideInToc: true
+---
+
+---
+layout: default
+src: ./pages/aigc-security-extra-2.md
 hideInToc: true
 ---
 
 ---
 layout: default
 src: ./pages/aigc-blue-sea-frontier.md
+hideInToc: true
+---
+
+---
+layout: default
+src: ./pages/other-example.md
 hideInToc: true
 ---
 

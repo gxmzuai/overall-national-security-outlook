@@ -10,6 +10,8 @@
 
 ![](https://vip2.loli.io/2023/11/06/Mj9xE1YcDfTsSzv.webp)
 
+<center text-sm>日本第3轮核废水排海</center>
+
 </div>
 
 </div>
